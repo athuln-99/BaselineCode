@@ -1,0 +1,25 @@
+Sigrid® | One platform to manage your entire IT organization
+Sigrid is a data-driven software intelligence platform, that will analyze all source code derive holistic insights into risks, costs, opportunities on multiple software quality aspects and translate those into business risks and concrete actions.
+Illuminate the hidden risks and give you actionable insight to cut costs, tackle security threats, and bring high-quality applications to market faster.
+Sigrid enables you to measure, evaluate, and monitor your entire software landscape health at every stage of its life cycle – whether buying, building, or operating. By exposing hidden risks and opportunities in your source code, Sigrid gives you continuous insights and recommendations on the performance of your software portfolio.
+Show As-is status to create future fit software.
+Sigrid provides unparalleled transparency into the current state of your software application landscape to help your team quickly identify, categorize, and prioritize tasks. Say goodbye to information overload and welcome a more organized and effective approach with Sigrid.
+From every single line of code to the entire overview.
+From high-level portfolio overviews to deep-dive findings on system architecture, Sigrid offers a wide range of insights to cater to your specific needs. Whether you require a bird's-eye view of your entire IT landscape or in-depth analysis of individual systems, Sigrid delivers the information you need.
+Benchmark your IT landscape against the market.
+Sigrid ranks your software capabilities against 10,000 systems and over 85 billion lines of code in our software analysis database to help you identify key initiatives for reducing risk and improving overall effectiveness. By leveraging this vast amount of data, Sigrid offers valuable insights into your software landscape, highlighting areas of strength and areas that require attention.
+One Single Version of the Truth – Easy to Use for All Teams.
+Whether you're the CIO making strategic decisions or the last developer tackling a specific issue, Sigrid empowers all individuals to leverage the platform's user-friendly interface and obtain the necessary insights. By providing unified reporting and analytics, Sigrid ensures there is a consistent and reliable source of information for all stakeholders.
+Sigrid enables you to measure, evaluate and monitor your entire software landscape health at every stage of its life cycle – whether you’re buying, building, or operating.
+By exposing hidden risks and opportunities in your source code, Sigrid gives you full insights in and recommendations on the performance of your software portfolio, continuously.
+Strategically manage maintainability to boost your team’s productivity.
+Our benchmark database shows that maintenance over the years takes 80% of your team’s time. And maintenance starts after the first line of code is written. It is essential to write code cleanly to keep your software sustainable and future-proof. But how do you even keep track of this objectively?
+We help you cope with your software security responsibilities with 1 platform, 1 single version of the truth, prioritized recommendations - clear and easy to use for all teams. Secure your entire software portfolio with Sigrid in three steps. For security without headaches.
+Managing open-source repositories is a responsibility you shouldn't neglect
+Approximately 80% of all software landscapes consist of open source code. With the success of open source libraries also comes the responsibility of managing their health and freshness. You need to monitor security, establish an update process, comply with the open source licenses, and keep an eye on the communities themselves. And on top of that, you must organize and manage these processes for all teams, systems, and technologies across your landscape.
+Improve communication about architecture among stakeholders
+Discussing software and system architecture amongst different stakeholders can take a significant amount of time, especially for large projects in which multiple teams work on several interconnected subcomponents. Sigrid shows you the actual architecture of your software landscape, by combining information from multiple sources and presenting it in a structured, comprehensive overview.
+Built for all kinds of roles
+Insight from bit to boardroom: Sigrid® provides high-level portfolio overviews of code-level violations as well as deep-dive findings around aspects such as system architecture. Whether it's the CIO or the last developer, all stakeholders get the appropriate insight.
+We understand the hassle of replacing the tools you have been using for a long time in your workflow.
+That is why we seamlessly incorporate the tools you rely on in your day-to day work.
